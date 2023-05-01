@@ -1,0 +1,14 @@
+You are a junior software developer at a financial company. Your task is to develop a program that
+calculates an employee's income based on the number of hours worked and hourly rate. The
+program should also calculate deductions for income tax and superannuation. You will need to
+create a pseudocode and flow chart to show your design process and develop a working program
+using Python 3 language.
+The case study involves a fictional country where individuals are taxed based on their income. The
+income is determined by multiplying the number of hours worked by the hourly rate. Each individual
+is taxed at 20%. Students must develop a program that can take in user input for hours worked and
+hourly rate, to calculate the income and then apply the appropriate taxes owed based on the fixed
+tax rate of 20%. The program must also consider any superannuation deductions, which is 10% of
+the income.
+For example, if an employee user, “John Smith”, enters 40 hours worked and hourly rate of $25 per
+hour, as shown in Table 1. Then, the total income will be $1000, of which 20% is taxed ($200) and
+10% deducted for superannuation ($100)
